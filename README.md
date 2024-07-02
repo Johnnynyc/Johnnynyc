@@ -1,3 +1,20 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/victor-calderon-962245280/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:Calderon.j.Victor.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://github.com/VictorCalderonJ?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-blue?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Johnny!</h1>
 <h3 align="center">Computer Engineering Student @ University at Buffalo</h3>
 
