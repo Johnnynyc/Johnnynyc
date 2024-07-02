@@ -14,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnynyc&show_icons=true&locale=en&layout=compact" alt="johnnynyc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnynyc&show_icons=true&locale=en" alt="johnnynyc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnnynyc&" alt="johnnynyc" /></p>
